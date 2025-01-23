@@ -1,7 +1,6 @@
 # Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm **Maria**, a Computer Science major with a passion for software development and a keen interest in art.<br>
-I currently work providing technical support in Portuguese, English, and Spanish at HCLTech.
 
 ### 🐈 Interests
 
